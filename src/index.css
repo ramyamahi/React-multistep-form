@@ -1,0 +1,17 @@
+body{
+  background-color:   #000000 !important;
+  text-align: center;
+}
+.App{
+	padding: 20% !important;
+}
+.modal-style{
+  text-align: center !important;
+  padding: 5% !important;
+}
+.step-style{
+  margin-bottom: 5% !important;
+}
+.p-10{
+	padding: 10% !important;
+}

@@ -6,7 +6,7 @@ class Success extends Component {
 
     render(){
        return(
-   		<div>
+   		<div className='p-10'>
    			<h1>Success</h1>
    		</div>
 
